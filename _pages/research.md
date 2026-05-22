@@ -40,5 +40,7 @@ Draft coming soon.
 
 
 
-\### Searching for Job Security and Skill Mismatch
+\### Searching for Job Security and Skill Mismatch, with Matthew Famiglietti
+
+\### A Pendulum Model of Economic Growth, with Zhen Huo and Xiaodong Zhu
 
