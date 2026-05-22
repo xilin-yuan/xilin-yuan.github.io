@@ -25,6 +25,6 @@ author_profile: true
 
 ### Ph.D. Math Camp
 
-* Summer 2024, TA to Prof. William Hawkins
-* Summer 2023, TA to Prof. William Hawkins
+* Summer 2024 & 2023, TA to Prof. William Hawkins
+
 
