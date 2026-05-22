@@ -54,11 +54,3 @@ author\_profile: true
 * Summer 2024, TA to Prof. William Hawkins
 * Summer 2023, TA to Prof. William Hawkins
 
-
-
-
-
-
-
-
-
