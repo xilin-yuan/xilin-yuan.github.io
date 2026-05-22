@@ -192,6 +192,11 @@
   font-size: $type-size-5;
 }
 
+.author__name-native {
+  font-family: "Weibei SC", "STKaiti", "KaiTi", "Kaiti SC", "DFKai-SB", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", serif;
+  font-weight: normal;
+}
+
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
