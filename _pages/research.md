@@ -4,11 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
-
-**Endogenous Contract Choice and Wage-Inflation Spirals**
-
-Draft coming soon.
 
 ## Working Papers
 
@@ -18,7 +13,9 @@ Draft coming soon.
 
 ## Selected Work in Progress
 
-### Searching for Job Security and Skill Mismatch, with Matthew Famiglietti
+1. **Endogenous Contract Choice and Wage-Inflation Spirals**
 
-### A Pendulum Model of Economic Growth, with Zhen Huo and Xiaodong Zhu
+2. **Searching for Job Security and Skill Mismatch**, with Matthew Famiglietti
+
+3. **A Pendulum Model of Economic Growth**, with Zhen Huo and Xiaodong Zhu
 
