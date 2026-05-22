@@ -13,7 +13,7 @@ My research interests are in macroeconomics, labor economics, and information ec
 
 Here is my [CV](/files/cv.pdf). You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
 
-My Name is pronounced as Shee-leen Ywen.
+My name is pronounced as Shee-leen Ywen.
 
 
 <br><br>
