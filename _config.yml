@@ -13,7 +13,7 @@ title                    : "Xilin Yuan"
 title_separator          : "-"
 name                     : &name "Xilin Yuan"
 description              : &description "Ph.D. Candidate in Economics, Yale University" 
-url                      : https://xilin-yuan.github.io 
+url                      : https://xilinyuan.net 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xilin-yuan/xilin-yuan.github.io"
 
