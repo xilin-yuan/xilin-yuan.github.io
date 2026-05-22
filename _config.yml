@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Xilin Yuan"
   pronouns         :  
-  bio              : "Ph.D. Candidates Yale University"
+  bio              : "Ph.D. Candidates, Yale University"
   location         : "New Haven, CT"
-  employer         : "Yale University"
+  employer         : 
   uri              : # URL
   email            : "xilin.yuan@yale.edu" 
 
