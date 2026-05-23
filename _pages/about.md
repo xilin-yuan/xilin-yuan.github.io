@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
+seo_title: "Xilin Yuan"
 author_profile: true
 redirect_from: 
   - /about/
