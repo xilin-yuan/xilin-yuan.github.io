@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at Yale University.
 
-My research interests are in macroeconomics, labor economics, and information economics.
+My research interests are in macroeconomics, labor economics, and monetary economics.
 
 Here is my [CV](/files/cv.pdf). You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
 
