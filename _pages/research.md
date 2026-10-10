@@ -13,7 +13,7 @@ author_profile: true
 
 ## Selected Work in Progress
 
-1. **Endogenous Contract Choice and Wage-Inflation Spirals**
+1. **Wage-Price Spirals: The Contract Accelerator**
 
 2. **Searching for Job Security and Skill Mismatch**, with Matthew Famiglietti
 
