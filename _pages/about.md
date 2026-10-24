@@ -24,21 +24,38 @@ My name is pronounced as Shee-leen Ywen.
 
 ## Working Papers
 
-**Wage-Price Spirals: The Contract Accelerator**, *Job Market Paper*
+<style>
+  .page__content .working-paper {
+    margin-bottom: 28px;
+  }
 
-[Draft coming soon]
+  .page__content .working-paper__resources {
+    margin-top: 6px;
+    font-size: 0.85em;
+    line-height: 1.5;
+    color: var(--global-text-color-light);
+  }
+</style>
 
-**From Technology Disruption to Adaptation: Optimal Policies for Taxation and Retraining**
+<div class="working-paper">
+  <div><strong>Wage-Price Spirals: The Contract Accelerator</strong>, <em>Job Market Paper</em></div>
+  <div class="working-paper__resources">Draft coming soon</div>
+</div>
 
-[Paper](/files/retraining_draft_new.pdf)
+<div class="working-paper">
+  <div><strong>From Technology Disruption to Adaptation: Optimal Policies for Taxation and Retraining</strong></div>
+  <div class="working-paper__resources"><a href="/files/retraining_draft_new.pdf">Paper</a></div>
+</div>
 
-**Searching for Job Security and Skill Mismatch**, with Matthew Famiglietti
+<div class="working-paper">
+  <div><strong>Searching for Job Security and Skill Mismatch</strong>, with Matthew Famiglietti</div>
+  <div class="working-paper__resources">Draft coming soon</div>
+</div>
 
-[Draft coming soon]
-
-**A Pendulum Model of Economic Growth**, with Zhen Huo and Xiaodong Zhu
-
-[Draft coming soon]
+<div class="working-paper">
+  <div><strong>A Pendulum Model of Economic Growth</strong>, with Zhen Huo and Xiaodong Zhu</div>
+  <div class="working-paper__resources">Draft coming soon</div>
+</div>
 
 ## Selected Work in Progress
 
