@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Economics at Yale University.
 
 My research interests are in macroeconomics, labor economics, and monetary economics.
 
-Here is my [CV](/files/cv.pdf). You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
+Here is my [CV](/files/Yuan_Xilin_CV.pdf). You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
 
 My name is pronounced as Shee-leen Ywen.
 
@@ -24,14 +24,22 @@ My name is pronounced as Shee-leen Ywen.
 
 ## Working Papers
 
-### From Technology Disruption to Adaptation: Optimal Policies for Taxation and Retraining
+1. **Wage-Price Spirals: The Contract Accelerator**, *Job Market Paper*
+
+[Draft coming soon]
+
+2. **From Technology Disruption to Adaptation: Optimal Policies for Taxation and Retraining**
 
 [Paper](/files/retraining_draft_new.pdf)
 
+3. **Searching for Job Security and Skill Mismatch**, with Matthew Famiglietti
+
+[Draft coming soon]
+
+4. **A Pendulum Model of Economic Growth**, with Zhen Huo and Xiaodong Zhu
+
+[Draft coming soon]
+
 ## Selected Work in Progress
 
-1. **Wage-Price Spirals: The Contract Accelerator**
-
-2. **Searching for Job Security and Skill Mismatch**, with Matthew Famiglietti
-
-3. **A Pendulum Model of Economic Growth**, with Zhen Huo and Xiaodong Zhu
+1. **Job-to-Job Scars**, with Meili Wang and Ziqing Yan
