@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Economics at Yale University.
 
 My research interests are in macroeconomics, labor economics, and monetary economics.
 
-Here is my [CV](/files/Yuan_Xilin_CV.pdf). You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
+Here is my **[CV](/files/Yuan_Xilin_CV.pdf)**. You can contact me via email: [xilin.yuan@yale.edu](mailto:xilin.yuan@yale.edu).
 
 My name is pronounced as Shee-leen Ywen.
 
@@ -21,16 +21,27 @@ My name is pronounced as Shee-leen Ywen.
 
 
 <style>
+  .page__content {
+    --paper-link-color: #245778;
+  }
+
+  html[data-theme="dark"] .page__content {
+    --paper-link-color: #90bbd4;
+  }
+
+  .page__content a[href="/files/Yuan_Xilin_CV.pdf"],
+  .page__content a[href="mailto:xilin.yuan@yale.edu"] {
+    color: var(--paper-link-color);
+  }
+
   .research-papers {
     --paper-title-color: var(--global-text-color);
-    --paper-link-color: #245778;
     --paper-author-color: #555;
     --paper-status-color: #767676;
     --paper-divider-color: #e0e5e8;
   }
 
   html[data-theme="dark"] .research-papers {
-    --paper-link-color: #90bbd4;
     --paper-author-color: #ddd;
     --paper-status-color: #bbb;
     --paper-divider-color: #666;
