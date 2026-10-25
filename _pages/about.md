@@ -22,7 +22,7 @@ My name is pronounced as Shee-leen Ywen.
 
 <style>
   .research-papers {
-    --paper-title-color: #222;
+    --paper-title-color: var(--global-text-color);
     --paper-link-color: #245778;
     --paper-author-color: #555;
     --paper-status-color: #767676;
@@ -30,7 +30,6 @@ My name is pronounced as Shee-leen Ywen.
   }
 
   html[data-theme="dark"] .research-papers {
-    --paper-title-color: #fff;
     --paper-link-color: #90bbd4;
     --paper-author-color: #ddd;
     --paper-status-color: #bbb;
@@ -114,8 +113,7 @@ My name is pronounced as Shee-leen Ywen.
   <section aria-labelledby="job-market-paper">
     <h2 id="job-market-paper">Job Market Paper</h2>
     <div class="working-paper">
-      <div class="paper-heading"><span class="paper-title">Wage-Price Spirals: The Contract Accelerator</span></div>
-      <div class="paper-status">Draft coming soon</div>
+      <div class="paper-heading"><a class="paper-title" href="/files/wage_price_spirals.pdf">Wage-Price Spirals: The Contract Accelerator</a></div>
     </div>
   </section>
 
