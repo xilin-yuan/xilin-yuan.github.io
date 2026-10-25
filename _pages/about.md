@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Yale University.
+I'm a Ph.D. candidate in Economics at Yale University. I'm on the 2026-27 academic job market. 
 
 My research interests are in macroeconomics, labor economics, and monetary economics.
 
