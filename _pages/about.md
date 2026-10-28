@@ -135,9 +135,8 @@ My name is pronounced as Shee-leen Ywen.
     </div>
 
     <div class="working-paper">
-      <div class="paper-heading"><span class="paper-title">Searching for Job Security and Skill Mismatch</span></div>
+      <div class="paper-heading"><a class="paper-title" href="/files/occ_choice.pdf">Searching for Job Security: Occupational Choice and Skill Mismatch</a></div>
       <div class="paper-authors">with <a href="https://matthewtfamiglietti.github.io/">Matthew Famiglietti</a></div>
-      <div class="paper-status">Draft coming soon</div>
     </div>
 
     <div class="working-paper">
