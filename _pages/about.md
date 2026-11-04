@@ -140,9 +140,8 @@ My name is pronounced as Shee-leen Ywen.
     </div>
 
     <div class="working-paper">
-      <div class="paper-heading"><span class="paper-title">A Pendulum Model of Economic Growth</span></div>
+      <div class="paper-heading"><a class="paper-title" href="/files/Growth_target.pdf">A Pendulum Model of Economic Growth</a></div>
       <div class="paper-authors">with <a href="https://zhenhuo.weebly.com/">Zhen Huo</a> and <a href="https://www.xiaodongzhu.net/">Xiaodong Zhu</a></div>
-      <div class="paper-status">Draft coming soon</div>
     </div>
   </section>
 
